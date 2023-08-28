@@ -1,6 +1,6 @@
 # My friend request me to create a nazi logo using python turtle
 
-> [!info]
+> [!note]
 > Use this site to see how it's work : 
 > https://www.pythonsandbox.com/turtle
 
