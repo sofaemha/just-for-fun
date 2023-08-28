@@ -1,8 +1,10 @@
 # My friend request me to create a nazi logo using python turtle
 
+> [!info]
 > Use this site to see how it's work : 
 > https://www.pythonsandbox.com/turtle
->
+
+> [!important]
 > If you're in mobile, make sure to checked desktop view
 
 ## Editor Window
